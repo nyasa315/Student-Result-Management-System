@@ -49,31 +49,34 @@ Student-Result-Management-System
 ├── student.php
 └── README.md
 
+
 ## 📷 Screenshots
 
 ### Login Page
-<img src="./screenshots/login.png" width="500">
+![Login](screenshots/login.png)
 
 ### Dashboard
-<img src="./screenshots/dashboard.png" width="500">
+![Dashboard](screenshots/dashboard.png)
 
 ### Add Class
-<img src="./screenshots/add - class.png" width="500">
+![Add Class](screenshots/add%20-%20class.png)
 
 ### Add Result
-<img src="./screenshots/add - result.png" width="500">
+![Add Result](screenshots/add%20-%20result.png)
 
 ### Add Student
-<img src="./screenshots/add - student.png" width="500">
+![Add Student](screenshots/add%20-%20student.png)
 
 ### Manage Class
-<img src="./screenshots/manage - class.png" width="500">
+![Manage Class](screenshots/manage%20-%20class.png)
 
 ### Manage Result
-<img src="./screenshots/mannage - result.png" width="500">
+![Manage Result](screenshots/mannage%20-%20result.png)
 
 ### Manage Student
-<img src="./screenshots/manage - student.png" width="500">
+![Manage Student](screenshots/manage%20-%20student.png)
+
+
 ## ⚙ Installation
 
 1. Install XAMPP Server
@@ -88,7 +91,10 @@ Student-Result-Management-System
 
 6. Open the project in your browser:
 
+```text
 http://localhost/Student-Result-Management-System
+```
+
 ## 🔮 Future Improvements
 
 - Student login module
@@ -96,6 +102,8 @@ http://localhost/Student-Result-Management-System
 - Better UI design
 - Mobile responsive improvements
 - Export results as PDF
+
+  
 ## 👩‍💻 Developed By
 
 **Nyasa Patel**  
