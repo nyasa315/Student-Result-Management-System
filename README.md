@@ -31,6 +31,8 @@ This project allows administrators to manage students, classes and examination r
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
 ```text
 Student-Result-Management-System
 
@@ -48,46 +50,49 @@ Student-Result-Management-System
 ├── manage_results.php
 ├── student.php
 └── README.md
+```
 
 
-## 📷 Screenshots
+## 📷 screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+<img src="screenshots/login.png" width="500"/>
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img src="screenshots/dashboard.png" width="500"/>
 
 ### Add Class
-![Add Class](screenshots/add%20-%20class.png)
+<img src="screenshots/add%20-%20class.png" width="500"/>
 
 ### Add Result
-![Add Result](screenshots/add%20-%20result.png)
+<img src="screenshots/add%20-%20result.png" width="500"/>
 
 ### Add Student
-![Add Student](screenshots/add%20-%20student.png)
+<img src="screenshots/add%20-%20student.png" width="500"/>
 
 ### Manage Class
-![Manage Class](screenshots/manage%20-%20class.png)
+<img src="screenshots/manage%20-%20class.png" width="500"/>
 
 ### Manage Result
-![Manage Result](screenshots/mannage%20-%20result.png)
+<img src="screenshots/manage%20-%20result.png" width="500"/>
 
 ### Manage Student
-![Manage Student](screenshots/manage%20-%20student.png)
+<img src="screenshots/manage%20-%20student.png" width="500"/>
 
 
-## ⚙ Installation
+## ⚙️ Installation
 
-1. Install XAMPP Server
+Follow these steps to run the project locally:
 
-2. Copy the project folder into the htdocs folder
+1. Install XAMPP Server.
 
-3. Start Apache and MySQL from XAMPP
+2. Copy the project folder into the `htdocs` folder.
 
-4. Open phpMyAdmin
+3. Start Apache and MySQL from XAMPP Control Panel.
 
-5. Import the SQL database file
+4. Open phpMyAdmin.
+
+5. Import the SQL database file from the `database` folder.
 
 6. Open the project in your browser:
 
