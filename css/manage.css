@@ -1,0 +1,99 @@
+/*table*/
+.main {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.main table {
+    margin: 50px auto;
+}
+
+.main table,
+th,
+td {
+    border-collapse: collapse;
+    text-align: left;
+    table-layout: fixed;
+    padding: 8px 30px;
+    width: 50%;
+}
+
+.main th {
+    color: #61c232;
+}
+
+.main tr:hover {
+    background-color: #474b4f;
+}
+
+th,
+td {
+    border-bottom: 1px solid #ddd;
+}
+
+.table-box {
+    background: rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(12px);
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, .35);
+    width: 90%;
+    max-width: 1000px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+caption {
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    padding: 15px;
+}
+
+th {
+    background: #2563eb;
+    color: white;
+    padding: 15px;
+    font-size: 18px;
+}
+
+td {
+    padding: 15px;
+    color: white;
+}
+
+tr:hover {
+    background: rgba(255, 255, 255, .12);
+    transition: .3s;
+}
+
+.edit-btn,
+.delete-btn {
+    text-decoration: none;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 8px;
+    margin: 0 4px;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+.edit-btn {
+    background: #2563eb;
+}
+
+.edit-btn:hover {
+    background: #1d4ed8;
+}
+
+.delete-btn {
+    background: #dc2626;
+}
+
+.delete-btn:hover {
+    background: #b91c1c;
+}
