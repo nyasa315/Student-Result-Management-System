@@ -52,28 +52,28 @@ Student-Result-Management-System
 ## 📷 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+<img src="./screenshots/login.png" width="500">
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img src="./screenshots/dashboard.png" width="500">
 
 ### Add Class
-![Add Class](screenshots/add%20-%20class.png)
+<img src="./screenshots/add - class.png" width="500">
 
 ### Add Result
-![Add Result](screenshots/add%20-%20result.png)
+<img src="./screenshots/add - result.png" width="500">
 
 ### Add Student
-![Add Student](screenshots/add%20-%20student.png)
+<img src="./screenshots/add - student.png" width="500">
 
 ### Manage Class
-![Manage Class](screenshots/manage%20-%20class.png)
+<img src="./screenshots/manage - class.png" width="500">
 
 ### Manage Result
-![Manage Result](screenshots/manage%20-%20result.png)
+<img src="./screenshots/mannage - result.png" width="500">
 
 ### Manage Student
-![Manage Student](screenshots/manage%20-%20student.png)
+<img src="./screenshots/manage - student.png" width="500">
 ## ⚙ Installation
 
 1. Install XAMPP Server
