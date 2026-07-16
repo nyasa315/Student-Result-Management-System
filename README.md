@@ -31,8 +31,6 @@ This project allows administrators to manage students, classes and examination r
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```text
 Student-Result-Management-System
 
