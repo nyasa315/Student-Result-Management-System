@@ -48,11 +48,32 @@ Student-Result-Management-System
 ├── manage_results.php
 ├── student.php
 └── README.md
+
 ## 📷 Screenshots
 
-Screenshots of the project interface are available below.
+### Login Page
+![Login Page](screenshots/login.png)
 
-(Add screenshots here)
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add Class
+![Add Class](screenshots/add%20-%20class.png)
+
+### Add Result
+![Add Result](screenshots/add%20-%20result.png)
+
+### Add Student
+![Add Student](screenshots/add%20-%20student.png)
+
+### Manage Class
+![Manage Class](screenshots/manage%20-%20class.png)
+
+### Manage Result
+![Manage Result](screenshots/manage%20-%20result.png)
+
+### Manage Student
+![Manage Student](screenshots/manage%20-%20student.png)
 ## ⚙ Installation
 
 1. Install XAMPP Server
