@@ -71,10 +71,10 @@ Student-Result-Management-System
 <img src="screenshots/add%20-%20student.png" width="500"/>
 
 ### Manage Class
-<img src="screenshots/manage%20-%20class.png" width="500"/>
+<img src="screenshots/manage%20-%20%20class.png" width="500"/>
 
 ### Manage Result
-<img src="screenshots/manage%20-%20result.png" width="500"/>
+<img src="screenshots/manage%20-%20%20result.png" width="500"/>
 
 ### Manage Student
 <img src="screenshots/manage%20-%20student.png" width="500"/>
