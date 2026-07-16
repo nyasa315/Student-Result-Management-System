@@ -1,10 +1,12 @@
 # 🎓 Student Result Management System
 
-A web-based Student Result Management System developed using PHP, MySQL, HTML, CSS and JavaScript. This project allows the administrator to manage students, classes and examination results, while students can check their results using their roll number.
+## 📌 About The Project
 
----
+A web-based Student Result Management System developed using PHP, MySQL, HTML, CSS and JavaScript.
 
-# 🚀 Features
+This project allows administrators to manage students, classes and examination results, while students can check their results using their roll number.
+
+## 🚀 Features
 
 - Admin Login
 - Dashboard
@@ -18,9 +20,7 @@ A web-based Student Result Management System developed using PHP, MySQL, HTML, C
 - Student Result Portal
 - Responsive User Interface
 
----
-
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 
 - PHP
 - MySQL
@@ -29,11 +29,11 @@ A web-based Student Result Management System developed using PHP, MySQL, HTML, C
 - JavaScript
 - XAMPP
 
----
+## 📂 Project Structure
 
-# 📂 Project Structure
+```text
 Student-Result-Management-System
-│
+
 ├── css
 ├── database
 ├── images
@@ -48,69 +48,54 @@ Student-Result-Management-System
 ├── manage_results.php
 ├── student.php
 └── README.md
----
+## 📷 Screenshots
 
-# 📷 Screenshots
+### Login Page
+![Login Page](screenshots/login.php)
 
-## Login Page
+### Dashboard
+![Dashboard](screenshots/dashboard.php)
 
-![Login](screenshots/login.png)
+### Add Classes
+![Add Classes](screenshots/add_classes.php)
 
----
+### Add Results
+![Add Results](screenshots/add_results.php)
 
-## Dashboard
+### Add Students
+![Add Students](screenshots/add_students.php)
 
-![Dashboard](screenshots/dashboard.png)
+### Manage Classes
+![Manage Classes](screenshots/manage_classes.php)
 
----
+### Manage Results
+![Manage Results](screenshots/manage_results.php)
 
-## Add Class
+### Manage Students
+![Manage Students](screenshots/manage_students.php)
+## ⚙ Installation
 
-![Add Class](screenshots/add-class.png)
+1. Install XAMPP Server
 
----
+2. Copy the project folder into the htdocs folder
 
-## Manage Class
+3. Start Apache and MySQL from XAMPP
 
-![Manage Class](screenshots/manage-class.png)
+4. Open phpMyAdmin
 
----
+5. Import the SQL database file
 
-## Add Student
+6. Open the project in your browser:
 
-![Add Student](screenshots/add-student.png)
+http://localhost/Student-Result-Management-System
+## 🔮 Future Improvements
 
----
+- Student login module
+- Result analytics dashboard
+- Better UI design
+- Mobile responsive improvements
+- Export results as PDF
+## 👩‍💻 Developed By
 
-## Manage Student
-
-![Manage Student](screenshots/manage-student.png)
-
----
-
-## Add Result
-
-![Add Result](screenshots/add-result.png)
-
----
-
-## Manage Result
-
-![Manage Result](screenshots/manage-result.png)
-
----
-
-# ⚙ Installation
-
-1. Install XAMPP
-2. Copy the project into the htdocs folder.
-3. Import the SQL database into phpMyAdmin.
-4. Start Apache and MySQL.
-5. Open localhost in your browser.
-6. Login as Admin.
-
----
-
-# 👩‍💻 Developed By
-
-Nyasa Patel
+**Nyasa Patel**  
+Computer Engineering Student
